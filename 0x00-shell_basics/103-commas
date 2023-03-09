@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aSpm .
+ls -aspm
